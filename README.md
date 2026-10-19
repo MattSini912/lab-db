@@ -4,3 +4,5 @@ ATTENZIONE: potrebbero essere presenti errori o passaggi svolti in modo non corr
 - bisognerebbe considerare anche l'inserimento di indici (oltre quelli automatici di MySQL), valutando l'impatto sulle prestazioni;
 - non ci sono particolari requisiti su come formattare il documento o come organizzare le singole sezioni, a patto di svolgere tutti i passaggi necessari e presentarli in modo chiaro;
 - per gli schemi ho usato https://draw.io che consiglio fortemente.
+
+Se questo materiale vi è stato di aiuto per favore lasciate una stella :)
